@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=just%20Do%20It!!&fontSize=61" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=just%20Do%20It!!&fontSize=61" />
+</div>
 
 <div align="center">
   <p>✏️ Studing</p>
@@ -12,7 +14,7 @@
 </div>
 <br/><br/>
 <div align="center">
-  <p>🔥 Skill</p>
+  <p>⌨️ Skill</p>
   <div>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -20,9 +22,12 @@
   </div>
 </div>
 <br/><br/>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxjx__&layout=compact)](https://github.com/jin123457/github-readme-stats)
-</div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxjx__&show_icons=true&theme=radical)
+<hr />
 
- 
+<div align="center">
+  <p>🔥 My Current Situation</p>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin123457&&count_private=true&a&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin123457&layout=compact&theme=github_dark)
+</div>
