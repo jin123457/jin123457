@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=just%20Do%20It!!&fontSize=40&animation=twinkling)
+  ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=just%20Do%20It!!&fontSize=41&animation=twinkling)
   
 </div>
 <br/><br/>
