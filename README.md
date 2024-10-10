@@ -24,7 +24,7 @@
 <br/><br/>
 <hr />
 
-<div align="center">
+<div>
   <p>🔥 <b>My Current Situation</b></p>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin123457&&count_private=true&a&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
