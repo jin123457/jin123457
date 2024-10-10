@@ -1,10 +1,4 @@
 <div align="center">
-  
-  ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=just%20Do%20It!!&fontSize=41&animation=twinkling)
-  
-</div>
-<br/><br/>
-<div align="center">
   <p>✏️ <b>Studing</b></p>
   <div>
     <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
