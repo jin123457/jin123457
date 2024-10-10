@@ -1,3 +1,6 @@
+<div align=center>
+  <h4><b></b>Hello</b> 🙌 ☺️</h4>
+</div>
 <div>
   <p>✏️ <b>Studing</b></p>
   <div>
@@ -10,7 +13,7 @@
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
   </div>
 </div>
-<br/><br/>
+<br/>
 <div>
   <p>⌨️ <b>Skill</b></p>
   <div>
@@ -21,7 +24,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   </div>
 </div>
-<br/><br/>
 <hr />
 
 <div>
