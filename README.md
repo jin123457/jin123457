@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <p>✏️ <b>Studing</b></p>
   <div>
     <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
@@ -11,7 +11,7 @@
   </div>
 </div>
 <br/><br/>
-<div align="center">
+<div>
   <p>⌨️ <b>Skill</b></p>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
