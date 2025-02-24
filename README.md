@@ -1,6 +1,6 @@
 ### Hello</b> 🙌 ☺️
 <div>
-  <p>✏️ <b>Studing</b></p>
+  <p>✏️ <b>studying</b></p>
   <div>
     <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
